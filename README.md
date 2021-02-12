@@ -44,7 +44,7 @@
 - [微服务的基底（Microservice chassis）](https://microservices.io/patterns/microservice-chassis.html) - 一个用于服务实例与外界交互和简化服务开发的框架
 - [配置信息外部化（Externalized configuration）](https://microservices.io/patterns/externalized-configuration.html)new - 把类似数据库连接、访问密钥等配置信息外部化
 
-# 通讯模式（Communication patterns）
+# 通信模式（Communication patterns）
 
 ## 风格
 
